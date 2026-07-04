@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29660637/README.md)
 # 📈 Next-Day ETF Price-Direction Prediction — VUSA.L (Deep Learning)
 
 A comparative deep-learning study that predicts the **next-day price direction** of the Vanguard S&P 500 UCITS ETF (**VUSA.L**), and tests a concrete question: **does proprietary Bloomberg Terminal data beat free public data?** Motivated by a personal £30,000 holding in the ETF.
