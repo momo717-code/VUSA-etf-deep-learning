@@ -51,7 +51,7 @@ pip install torch scikit-learn pandas numpy matplotlib seaborn yfinance pandas_t
 ```
 
 - **Public-data path** is fully reproducible — `yfinance` downloads VUSA.L automatically.
-- **Bloomberg data is not included** (proprietary / licensed). The `Volatility_30D` experiments require your own Bloomberg export named `vusa_bloomberg_data.csv.xlsx`. See `.gitignore`.
+- **Bloomberg data is not included** (proprietary / licensed). The `Volatility_30D` experiments require your own Bloomberg export named `vusa_bloomberg_data.csv.xlsx`.
 
 Open `vusa_etf_deep_learning.ipynb` (Colab/Jupyter) or run `vusa_etf_deep_learning.py` cell-by-cell. Full write-up in **`VUSA_Deep_Learning_Report.pdf`**.
 
